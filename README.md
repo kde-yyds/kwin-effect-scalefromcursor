@@ -1,6 +1,7 @@
 # kwin-effect-foldpopups
 Kwin Scale From Cursor effect
 # Preview
+[scalefrompopups.webm](https://github.com/user-attachments/assets/9032191e-47a2-4294-9bd8-1d572917a37a)
 
 # Install
 ## Clone this repository
