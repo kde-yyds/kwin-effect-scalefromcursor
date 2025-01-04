@@ -16,5 +16,5 @@ bash ./install.sh
 To install globally, run as root
 ```
 cd kwin-effect-scalefromcursor
-sudo bash ../install.sh
+sudo bash ./install.sh
 ```
