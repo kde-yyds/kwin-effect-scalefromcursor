@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Effect",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "kde-yyds@qq.com",
+                "Name": "Hecheng Yu"
+            }
+        ],
+        "Category": "Window Open/Close Animation",
+        "Description": "Make windows smoothly scale in and out from and to your cursor position when they are shown or hidden",
+        "EnabledByDefault": false,
+        "Icon": "preferences-system-windows-effect-scale",
+        "Id": "scalefromcursor",
+        "License": "GPL",
+        "Name": "Scale From Cursor"
+    },
+    "X-KDE-ConfigModule": "kcm_kwin4_genericscripted",
+    "X-KDE-Ordering": 60,
+    "X-KWin-Config-TranslationDomain": "kwin",
+    "X-KWin-Exclusive-Category": "toplevel-open-close-animation",
+    "X-Plasma-API": "javascript"
+}
